@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Object Oriented Programming, Web-development with Java, Python, JS, HTML, CSS and Relational DataBase
 - 🌱 Estou atualmente estudante POO com Java, Algoritmos em Python e desenvolvimento web com JS, HTML e CSS
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 - 😄 Pronomes: ele/dele
 - ⚡ Fun fact: I love Gaming :D
 - ⚡ Fato pessoal: Eu amo jogar :D
