@@ -20,5 +20,5 @@
   <img align="center" alt="HTML-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Mateus_Icon" height="30" width="40" src="">
+  <img align="right" alt="Mateus_Icon" height="180em" src="https://i.ibb.co/LkjT5Yr/icone-yagi-for-git.jpg">
  </div>
