@@ -1,4 +1,4 @@
-### Hi there, i'm Mateus Cabral and i'm a college student (●'◡'●) 👋 
+### Hi there, i'm Mateus Cabral and i'm a college student 👋 
 ### Olá! Eu sou Mateus Cabral, estudante universitário!
 
 - 🌱 I’m currently learning Object Oriented Programming with Java, Basic Algorithm with Python and Web-development with JS, HTML, CSS and Relational DataBase
